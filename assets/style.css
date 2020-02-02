@@ -13,7 +13,7 @@ h1
 		1px 1px 0 #000;
 }
 
-.dark
+.cyan
 {
   background-color: #1aa5eb;
 }
@@ -42,4 +42,11 @@ li
 .text-center
 {
   text-align: center;
+}
+
+footer
+{
+ text-align: center;
+ margin: 0;
+ padding: 0;
 }
