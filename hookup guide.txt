@@ -1,0 +1,19 @@
+Here is how to hookup components to an arduino nano if you with to use this code yourself.
+all components are powered by 5v from the arduino
+
+pinouts:
+
+Digital:
+D3 - RED led
+D4 - wire connected to 5v 
+D4 - green LED
+
+Analog:
+A0 - right potentiometer
+A1 - left potentiometer 
+A2 - joystick y axis
+A3 - joystick x axis
+
+I2C:
+A4 - SDA from OLED
+A5 - SCK from OLED
